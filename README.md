@@ -1,5 +1,5 @@
 ### Bio
-- Undergraduate at Seoul National University (Department of Electronic and Computer Engineering) (4 semesters, currently taking a leave of absence)
+- Undergraduate at Seoul National University (Department of Electronic and Computer Engineering) (4 semesters, leave of absence)
 - Junior developer at Kodebox (2021.02.01 ~ now)
 
 ### Interests
