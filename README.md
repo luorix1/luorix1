@@ -1,6 +1,6 @@
 ### Bio
 - Undergraduate at Seoul National University (Department of Electronic and Computer Engineering) (4 semesters, leave of absence)
-- Junior developer at Kodebox (2021.02.01 ~ now)
+- Junior developer at Kodebox (2021.02.01 ~ 2021.10.31)
 
 ### Interests
 - Machine Learning and Deep Learning (Currently self-learning)
@@ -12,7 +12,7 @@
 - React + JavaScript/TypeScript
 - Django + Python
 - Dabbled in C++ & Java
-- Currently studying Dart, Flutter, CSS
+- Currently studying Dart, Flutter
 
 <!--
 **luorix1/luorix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
