@@ -1,16 +1,19 @@
 ### Bio
 - Undergraduate at Seoul National University (Department of Electronic and Computer Engineering) (4 semesters, leave of absence)
 - Junior developer at Kodebox (2021.02.01 ~ 2021.10.31)
+- Machine learning engineer (research) at DeepingSource (2021.11.01~)
 
 ### Interests
-- Machine Learning and Deep Learning (Currently self-learning)
-- Web and Mobile application development
-- Getting started on Operating Systems (Xv6)
+- Machine Learning and Deep Learning
+- Web and Mobile application development (backend development)
+- Operating Systems (Xv6)
 
 
 ### Tech stack
-- React + JavaScript/TypeScript
-- Django + Python
+- React
+- JavaScript/TypeScript
+- Django
+- Python
 - Dabbled in C++ & Java
 - Currently studying Dart, Flutter
 
