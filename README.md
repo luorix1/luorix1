@@ -3,7 +3,7 @@
 - Junior developer at Kodebox (2021.02.01 ~ 2021.10.31)
 - Machine learning engineer (research) at DeepingSource (2021.11.01~)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luorix1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luorix1&count_private=true)
 
 ### Interests
 - Machine Learning and Deep Learning
