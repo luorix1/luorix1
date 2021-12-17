@@ -17,7 +17,7 @@
 - Django
 - Python
 - Dabbled in C++ & Java
-- Currently studying Dart, Flutter
+- some Dart & Flutter
 
 <!--
 **luorix1/luorix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
