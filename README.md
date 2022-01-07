@@ -12,12 +12,19 @@
 
 
 ### Tech stack
+**Deep Learning**
+- PyTorch
+- some TensorFlow
+
+**Web development**
 - React
 - JavaScript/TypeScript
 - Django
+
+**Languages**
 - Python
-- Dabbled in C++ & Java
 - some Dart & Flutter
+- Dabbled in C++ & Java
 
 <!--
 **luorix1/luorix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
