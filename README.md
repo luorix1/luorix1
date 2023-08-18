@@ -1,5 +1,5 @@
 ### Bio
-- Undergraduate at Seoul National University (Department of Electronic and Computer Engineering) (4 semesters, leave of absence)
+- Undergraduate at Seoul National University (Department of Electronic and Computer Engineering)
 - Junior developer at Kodebox (2021.02.01 ~ 2021.10.31)
 - Machine learning engineer (research) at DeepingSource (2021.11.01 ~ 2023.02.28)
 - Machine learning engineer at DALPHA (2023.1 ~ 2023.8.18)
